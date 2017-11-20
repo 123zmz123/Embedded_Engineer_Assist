@@ -148,7 +148,7 @@ namespace 寄存器配置
         {
             InitializeComponent();
 
-            Reg_ListBox.Items.Add( );
+            //Reg_ListBox.Items.Add( );
 
         }
 
