@@ -1,0 +1,10 @@
+E:\vsprj\寄存器配置\寄存器配置\bin\Debug\寄存器配置.exe.config
+E:\vsprj\寄存器配置\寄存器配置\bin\Debug\寄存器配置.exe
+E:\vsprj\寄存器配置\寄存器配置\bin\Debug\寄存器配置.pdb
+E:\vsprj\寄存器配置\寄存器配置\obj\Debug\寄存器配置.csprojResolveAssemblyReference.cache
+E:\vsprj\寄存器配置\寄存器配置\obj\Debug\寄存器配置.Form1.resources
+E:\vsprj\寄存器配置\寄存器配置\obj\Debug\寄存器配置.Properties.Resources.resources
+E:\vsprj\寄存器配置\寄存器配置\obj\Debug\寄存器配置.csproj.GenerateResource.Cache
+E:\vsprj\寄存器配置\寄存器配置\obj\Debug\寄存器配置.csproj.CoreCompileInputs.cache
+E:\vsprj\寄存器配置\寄存器配置\obj\Debug\寄存器配置.exe
+E:\vsprj\寄存器配置\寄存器配置\obj\Debug\寄存器配置.pdb
