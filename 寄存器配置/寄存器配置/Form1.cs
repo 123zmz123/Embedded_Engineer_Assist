@@ -60,6 +60,20 @@ namespace 寄存器配置
 
         }
 
+        private void Reg_ListBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            int index = Reg_ListBox.SelectedIndex;
+
+            Bit7_TextBox.Text = reg_conf.Reg_datas[index].Bit7_Des;
+            Bit6_TextBox.Text = reg_conf.Reg_datas[index].Bit6_Des;
+            Bit5_TextBox.Text = reg_conf.Reg_datas[index].Bit5_Des;
+            Bit4_TextBox.Text = reg_conf.Reg_datas[index].Bit4_Des;
+            Bit3_TextBox.Text = reg_conf.Reg_datas[index].Bit3_Des;
+            Bit2_TextBox.Text = reg_conf.Reg_datas[index].Bit2_Des;
+            Bit1_TextBox.Text = reg_conf.Reg_datas[index].Bit1_Des;
+            Bit0_TextBox.Text = reg_conf.Reg_datas[index].Bit0_Des;
+        }
+
         private void Reg2_Button_Click(object sender, EventArgs e)
         {
             if (Register_Value[2] == 0)
@@ -148,7 +162,12 @@ namespace 寄存器配置
         {
             InitializeComponent();
 
-            //Reg_ListBox.Items.Add( );
+            int count = reg_conf.ReadAll();
+
+            for (int i = 0; i < count; i++)
+            {
+                Reg_ListBox.Items.Add(reg_conf.Reg_datas[i].Reg_Name);
+            }
 
         }
 

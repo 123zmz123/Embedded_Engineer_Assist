@@ -12,6 +12,15 @@ It list
 
  and then it can show you the register value at real time.
 
- I will add  function for configure registers through .csv format file.
+## Register Configure
 
-I will add others to reduce our workload.
+you can config your Registers in csv format file named RegConfig.csv.
+
+Pls put RegConfig.csv and Embedded_Assist.exe in the same file.
+
+our format as below:
+
+Register Discribe, Bit7 description,Bit6 description,Bit5 description,Bit4 description,Bit3 description,Bit2 description,Bit1 description,
+Bit0 description
+
+pls dont forget "," between each descriptions.

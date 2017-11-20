@@ -1,0 +1,10 @@
+E:\vsprj\寄存器配置\寄存器配置\obj\Release\Embbeded_Assist.csprojResolveAssemblyReference.cache
+E:\vsprj\寄存器配置\寄存器配置\obj\Release\寄存器配置.Form1.resources
+E:\vsprj\寄存器配置\寄存器配置\obj\Release\寄存器配置.Properties.Resources.resources
+E:\vsprj\寄存器配置\寄存器配置\obj\Release\Embbeded_Assist.csproj.GenerateResource.Cache
+E:\vsprj\寄存器配置\寄存器配置\obj\Release\Embbeded_Assist.csproj.CoreCompileInputs.cache
+E:\vsprj\寄存器配置\寄存器配置\bin\Release\Embbed_Assist.exe.config
+E:\vsprj\寄存器配置\寄存器配置\bin\Release\Embbed_Assist.exe
+E:\vsprj\寄存器配置\寄存器配置\bin\Release\Embbed_Assist.pdb
+E:\vsprj\寄存器配置\寄存器配置\obj\Release\Embbed_Assist.exe
+E:\vsprj\寄存器配置\寄存器配置\obj\Release\Embbed_Assist.pdb
